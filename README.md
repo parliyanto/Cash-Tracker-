@@ -3,7 +3,7 @@
 A modern web-based personal finance management system to track income, expenses, cash flow, and saving rate in real-time.
 
 🔗 **Live Demo:**  
-https://management-cash-money.vercel.app/dashboard
+https://management-cash-money.vercel.app/
 
 ---
 
